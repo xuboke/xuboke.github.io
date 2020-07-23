@@ -1,5 +1,5 @@
 ---
-title: “docker安装es的ik分词器”
+title: docker安装es的ik分词器
 date: 2020-06-22 13:55:53
 tags: ElasticSearch
 categories: ElasticSearch
